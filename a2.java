@@ -1,1 +1,3 @@
-class a2{}
+class a2{
+public void fun1() { }
+}
