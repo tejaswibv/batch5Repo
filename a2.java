@@ -1,1 +1,4 @@
-class a2{}
+class a2{
+public a2() {
+}
+}
